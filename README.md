@@ -1,8 +1,11 @@
 # N. Escobar Media [`lice`](https://github.com/licenses/lice) Licensing Templates
 
-This is a heavily limited, modified and updated version of [this repo.](https://github.com/licenses/license-templates)
+This is a heavily limited, modified and updated fork of [`licenses/license-templates`](https://github.com/licenses/license-templates).
+
 These files are designed to be used by [`lice`](https://github.com/licenses/lice), a command-line license generator
 for software projects.
+
+### *Usage can be found in [`nickesc/N.-Escobar-Media-Branding`](https://github.com/nickesc/N.-Escobar-Media-Branding/blob/main/license-info.md)*
 
 ## Format/Structure
 
